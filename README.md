@@ -11,7 +11,9 @@
  
 <br>
 
-### <img alt="Visual Studio Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" style="max-width: 100%; padding-right: 10px;" width="30px" align="left"> Languages and Tools<br><br>
+<hr>
+
+### <img alt="Visual Studio Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" style="max-width: 100%; padding-right: 10px;" width="30px" align="left"> Languages and Tools<br>
 
 <img alt="Visual Studio Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="max-width: 100%; padding-right: 10px;" width="30px" align="left">
 

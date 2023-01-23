@@ -9,12 +9,10 @@
 <p> I'm a junior full-stack developer, passionate about technology, computer science and videogames.</p>
 <p>All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.</p>
  
-
 <br>
 
-### <img alt="Visual Studio Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" style="max-width: 100%; padding-right: 10px;" width="30px" align="left"> Languages and Tools<br>
-
-
+### <img alt="Visual Studio Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" style="max-width: 100%; padding-right: 10px;" width="30px" align="left"> Languages and Tools
+<br>
 
 <img alt="Visual Studio Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="max-width: 100%; padding-right: 10px;" width="30px" align="left">
 

@@ -25,8 +25,6 @@
 
 <img alt="Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style="max-width: 100%; padding-right: 10px;" width="30px" align="left">
 
-<img alt="nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="max-width: 100%; padding-right: 10px; " width="30px" align="left">
-
 <img alt="Vue.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" style="max-width: 100%; padding-right: 10px;" width="30px" align="left">
 
 <img alt="php" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" style="max-width: 100%; padding-right: 10px;" width="30px" align="left">

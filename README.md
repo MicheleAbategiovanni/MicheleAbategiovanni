@@ -33,6 +33,10 @@
 
 <img alt="laravel" src="laravel.svg" style="max-width: 100%; padding-right: 10px; " width="30px" align="left">
 
+<img alt="yii2" src="https://www.yiiframework.com/image/design/logo/yii3_sign.png" style="max-width: 100%; padding-right: 10px; " width="30px" align="left">
+
 <img alt="github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="max-width: 100%; padding-right: 10px; " width="30px" align="left">
 
 <img alt="figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="max-width: 100%; padding-right: 10px; " width="30px" align="left">
+
+

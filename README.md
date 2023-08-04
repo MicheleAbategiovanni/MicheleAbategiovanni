@@ -35,7 +35,11 @@
 
 <img alt="yii2" src="https://www.yiiframework.com/image/design/logo/yii3_sign.png" style="max-width: 100%; padding-right: 10px; " width="30px" align="left">
 
+<img alt="flutter" src="https://static-00.iconduck.com/assets.00/flutter-icon-1651x2048-ojswpayr.png" style="max-width: 100%; padding-right: 10px; " width="30px" align="left">
+
 <img alt="github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="max-width: 100%; padding-right: 10px; " width="30px" align="left">
+
+<img alt="gitLab" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/GitLab_icon.svg/2127px-GitLab_icon.svg.png" style="max-width: 100%; padding-right: 10px; " width="30px" align="left">
 
 <img alt="figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="max-width: 100%; padding-right: 10px; " width="30px" align="left">
 

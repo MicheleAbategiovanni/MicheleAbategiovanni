@@ -1,6 +1,6 @@
 # <img src="my-sticker.png" width="50"> Michele Abategiovanni
 
-**`Jr. Full-Stack Developer`**
+**`Jr. Full-Stack Web Developer`**
 
 <br>
 

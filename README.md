@@ -11,13 +11,11 @@
  
 <hr>
 
-### <img alt="Visual Studio Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" style="max-width: 100%; padding-right: 10px;" width="30px" align="left"> Languages and Tools<br>
+### <img alt="Visual Studio Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" style="max-width: 100%; padding-right: 10px;" width="30px" align="left"> Languages <br><br>
 
-<img alt="Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style="max-width: 100%; padding-right: 10px;" width="30px" align="left">
+<img alt="Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style="max-width: 100%; padding-right: 10px;" width="40" align="left">
 
 <img alt="Vue.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" style="max-width: 100%; padding-right: 10px;" width="40px" align="left">
-
-<img alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="max-width: 100%; padding-right: 10px;" width="40px" align="left">
 
 <img alt="php" src="https://static-00.iconduck.com/assets.00/php-icon-2048x2048-79jhb719.png" style="max-width: 100%; padding-right: 10px;" width="40px" align="left">
 
@@ -31,6 +29,6 @@
 
 <img alt="mongoDB" src="https://www.svgrepo.com/show/331488/mongodb.svg" style="max-width: 100%; padding-right: 10px; " width="40px" align="left">
 
-<img alt="dart" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/dart-programming-language-icon.png" style="max-width: 100%; padding-right: 10px; " width="30px" align="left">
+<img alt="dart" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/dart-programming-language-icon.png" style="max-width: 100%; padding-right: 10px; " width="40px" align="left">
 
-<img alt="flutter" src="https://static-00.iconduck.com/assets.00/flutter-icon-1651x2048-ojswpayr.png" style="max-width: 100%; padding-right: 10px; " width="30px" align="left">
+<img alt="flutter" src="https://static-00.iconduck.com/assets.00/flutter-icon-1651x2048-ojswpayr.png" style="max-width: 100%; padding-right: 10px; " width="40px" align="left">

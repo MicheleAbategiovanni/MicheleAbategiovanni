@@ -19,7 +19,7 @@
 
 <img alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="max-width: 100%; padding-right: 10px;" width="30px" align="left">
 
-<img alt="php" src="https://static-00.iconduck.com/assets.00/php-icon-2048x2048-79jhb719.png style="max-width: 100%; padding-right: 10px;" width="30px" align="left">
+<img alt="php" src="https://static-00.iconduck.com/assets.00/php-icon-2048x2048-79jhb719.png" style="max-width: 100%; padding-right: 10px;" width="30px" align="left">
 
 <img alt="laravel" src="https://softwareinfosys.com/wp-content/uploads/2023/10/laravel-logo.webp" style="max-width: 100%; padding-right: 10px; " width="30px" align="left">
 

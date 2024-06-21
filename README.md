@@ -25,7 +25,7 @@
 
 <img alt="yii2" src="https://www.yiiframework.com/image/design/logo/yii3_sign.png" style="max-width: 100%; padding-right: 10px; " width="30px" align="left">
 
-<img alt="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" style="max-width: 100%; padding-right: 10px; " width="30px" align="left">
+<img alt="mysql" src="https://p1.hiclipart.com/preview/64/828/885/mysql-logo-organization-database-database-management-system-theory-implementation-line-circle-png-clipart.jpg" style="max-width: 100%; padding-right: 10px; " width="30px" align="left">
 
 <img alt="mongoDB" src="https://www.svgrepo.com/show/331488/mongodb.svg" style="max-width: 100%; padding-right: 10px; " width="30px" align="left">
 

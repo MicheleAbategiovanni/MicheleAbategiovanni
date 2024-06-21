@@ -25,7 +25,7 @@
 
 <img alt="yii2" src="https://www.yiiframework.com/image/design/logo/yii3_sign.png" style="max-width: 100%; padding-right: 10px; " width="30px" align="left">
 
-<img alt="mysql" src="https://icon-icons.com/icons2/2699/PNG/512/mariadb_logo_icon_170968.png" style="max-width: 100%; padding-right: 10px; " width="30px" align="left">
+<img alt="mysql" src="https://spintopventures.com/wp-content/uploads/2015/03/mariadb_2@2x.png" style="max-width: 100%; padding-right: 10px; " width="30px" align="left">
 
 <img alt="mongoDB" src="https://www.svgrepo.com/show/331488/mongodb.svg" style="max-width: 100%; padding-right: 10px; " width="30px" align="left">
 

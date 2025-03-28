@@ -30,4 +30,6 @@
 
 <img alt="dart" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/dart-programming-language-icon.png" style="max-width: 100%; padding-right: 10px; " width="40px" align="left">
 
+<img alt="dart" src="https://img.icons8.com/?size=100&id=87330&format=png&color=000000" style="max-width: 100%; padding-right: 10px; " width="40px" align="left">
+
 <img alt="flutter" src="https://static-00.iconduck.com/assets.00/flutter-icon-1651x2048-ojswpayr.png" style="max-width: 100%; padding-right: 10px; " width="40px" align="left">
